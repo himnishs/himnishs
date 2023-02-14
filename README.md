@@ -1,9 +1,9 @@
 ### Hi there, I'm Himnish 👋
 
-## I'm a Student, and a Developer!
+## I'm a College Graduate, and a Developer!
 - I'm currently learning more about C++ and Python.
 - I like solving all kinds of problems!
-- My goal for 2020 is to contribute to open source!
+- My goal for 2023 is to contribute to open source!
 
 ### Connect with me:
 [<img align="left" alt="40uf411 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
